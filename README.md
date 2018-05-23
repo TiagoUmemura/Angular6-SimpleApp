@@ -1,6 +1,7 @@
-# Testing
+# Angular 6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+Following this tutorial https://angular.io/tutorial/toh-pt1
 
 ## Development server
 
@@ -34,5 +35,5 @@ Run sudo npm install -g @angular/cli@latest <br />
 
 ## Setup Enviroment
 
-Run npm install
-Run npm serve
+Run npm install <br />
+Run npm serve<br />
