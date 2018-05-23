@@ -28,6 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Install Angular and Angular-cli
 
-Run curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-Run sudo apt-get install -y nodejs
-Run sudo npm install -g @angular/cli@latest
+Run curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - <br />
+Run sudo apt-get install -y nodejs <br />
+Run sudo npm install -g @angular/cli@latest <br />
+
+## Setup Enviroment
+
+Run npm install
+Run npm serve
